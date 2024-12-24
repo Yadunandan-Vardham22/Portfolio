@@ -15,7 +15,7 @@ const ProjectCard = ({
       style={{ height: "84vh" ,top:`calc(${i*45}px)`}}
     >
       <div
-        className="rounded-3xl "
+        className={`rounded-3xl `}
         style={{ backgroundColor: `#${color}`, height: "70vh" }}
       >
         <div className="ml-10 pt-10 font-poppins relative">
@@ -23,7 +23,7 @@ const ProjectCard = ({
           <p className="text-gray-600 tracking-wide w-[600px]">{description}</p>
           <ul className="w-[600px] mt-12 font-fredoka list-disc text-lg font-light ">
             <li
-              className={`mb-6 p-2 rounded-2xl`}
+              className={`mb-6 p-2 rounded-2xl `}
               style={{ backgroundColor: `#${secondaryColor}` }}
             >
               {point1}

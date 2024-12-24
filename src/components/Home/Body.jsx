@@ -28,9 +28,9 @@ const Body = () => {
 
   return (
     <div className="relative">
-      <div className="absolute -top-32  left-0 z-0">
+      {/* <div className="absolute -top-32  left-0 z-0">
         {themeMode ? <ParticleField numParticles={200} color="white"/> : ""}
-      </div>
+      </div> */}
       <div className="relative z-10">
         <HeroHeading />
         <Info />

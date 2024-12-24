@@ -13,7 +13,7 @@ const Contact = () => {
             style={{ fontSize: "24px" }}
             className="absolute top-[0px] left-[-35px]"
           />
-          <p>vardhamyadunandan@gmail.com</p>
+          <a href='https://vardhamyadunandan@gmail.com' target="_blank">vardhamyadunandan@gmail.com</a>
         </div>
         <div className="relative">
           <FontAwesomeIcon
@@ -21,7 +21,7 @@ const Contact = () => {
             style={{ fontSize: "24px" }}
             className="absolute top-[0px] left-[-35px]"
           />
-          <p>8688799831</p>
+          <p>+91-8688799831</p>
         </div>
       </div>
       <div className="flex justify-start gap-44">
@@ -31,7 +31,7 @@ const Contact = () => {
             style={{ fontSize: "24px" }}
             className="absolute top-[0px] left-[-35px]"
           />
-          <p>linkedin.com/in/yadunandan-vardham-55aba9218/</p>
+          <a href='https://linkedin.com/in/yadunandan-vardham-55aba9218' target="_blank">linkedin.com/in/yadunandan-vardham-55aba9218/</a>
         </div>
         <div className="relative">
           <FontAwesomeIcon
@@ -39,7 +39,7 @@ const Contact = () => {
             style={{ fontSize: "24px" }}
             className="absolute top-[0px] left-[-35px]"
           />
-          <p>github.com/yadunandan-Vardham22</p>
+          <a href='https://github.com/yadunandan-Vardham22' target="_blank">github.com/yadunandan-Vardham22</a>
         </div>
       </div>
     </div>

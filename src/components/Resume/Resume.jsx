@@ -17,9 +17,9 @@ const Resume = () => {
           <div className="absolute right-0 top-[60%] bg-gradient-to-br from-[#D0C5FA] z-0 rounded-tl-full w-56 h-52 "></div>
           <div className="absolute top-0 right-0 w-56 h-52 bg-gradient-to-br from-[#7F7CE0] z-0  rounded-bl-full"></div>
         </div>
-        <div className="absolute -top-32  left-0 z-0">
+        {/* <div className="absolute -top-32  left-0 z-0">
           {themeMode ? <ParticleField numParticles={100} color="#7F7CE0"/> : ""}
-        </div>
+        </div> */}
       </div>
     </div>
   );
