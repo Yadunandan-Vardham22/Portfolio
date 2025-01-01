@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import resumePDF from "../../../public/Resume.pdf"
+import resumePDF from "../../../public/Yadunandan_Vardham_Resume.pdf"
 
 const ResumeContainer = () => {
   return (

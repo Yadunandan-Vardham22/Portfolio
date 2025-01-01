@@ -13,7 +13,7 @@ const Info = () => {
       </div>
       <div>
         <h1 className='text-md font-poppins'>Industries served</h1>
-        <p className='text-5xl font-extralight text-gray-600 mt-2 font-dancing'>2</p>
+        <p className='text-5xl font-extralight text-gray-600 mt-2 font-dancing'>1</p>
       </div>
     </div>
   )
